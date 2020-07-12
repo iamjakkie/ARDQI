@@ -1,1 +1,2 @@
 # ARDQI
+> Goal of this project is to create All-ROund Data Quality Implementation package which would help you measure and improve your data quality. Please also take a look at related notes at [blog](http://datanaut.pl/).
